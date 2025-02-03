@@ -54,3 +54,123 @@ Results on the test set with a Modality Encoder Dropout of 0.5 after training fo
 Results on the test set with a Modality Encoder Dropout of 0.5 after training for 200 epochs using Adam with a learning rate of 0.01: 0.7525773195876289
 
 
+Results on the test set with a Modality Encoder Dropout of no  after training for 200 epochs using Adam with a learning rate of 0.01: 0.3402061855670103
+
+
+Results on the test set with a Modality Encoder Dropout of no  after training for 200 epochs using Adam with a learning rate of 0.01: 0.5154639175257731
+
+
+Results on the test set with a Modality Encoder Dropout of no  after training for 200 epochs using Adam with a learning rate of 0.01: 0.6391752577319587
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 200 epochs using Adam with a learning rate of 0.01: 0.6804123711340206
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 200 epochs using Adam with a learning rate of 0.01: 0.7525773195876289
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 200 epochs using Adam with a learning rate of 0.01: 0.7422680412371134
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 200 epochs using Adam with a learning rate of 0.01: 0.7525773195876289
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 200 epochs using Adam with a learning rate of 0.01: 0.7319587628865979
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 200 epochs using Adam with a learning rate of 0.01: 0.7422680412371134
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 200 epochs using Adam with a learning rate of 0.01: 0.7319587628865979
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 200 epochs using Adam with a learning rate of 0.01: 0.8041237113402062
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 200 epochs using Adam with a learning rate of 0.01: 0.7319587628865979
+
+All experiments above this line are invalid do to lack of model resetting between tests.
+Results on the test set with a Modality Encoder Dropout of 0 after training for 100 epochs using Adam with a learning rate of 0.01: 0.8041237113402062
+
+
+Results on the test set with a Modality Encoder Dropout of 0 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7731958762886598
+
+
+Results on the test set with a Modality Encoder Dropout of 0 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7835051546391752
+
+
+Results on the test set with a Modality Encoder Dropout of 0 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7319587628865979
+
+
+Results on the test set with a Modality Encoder Dropout of 0 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7835051546391752
+
+
+Results on the test set with a Modality Encoder Dropout of 0 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7628865979381443
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 100 epochs using Adam with a learning rate of 0.01: 0.711340206185567
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7319587628865979
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7628865979381443
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7525773195876289
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 100 epochs using Adam with a learning rate of 0.01: 0.8041237113402062
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7628865979381443
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7525773195876289
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 100 epochs using Adam with a learning rate of 0.01: 0.6597938144329897
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 100 epochs using Adam with a learning rate of 0.01: 0.6804123711340206
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7938144329896907
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7731958762886598
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 100 epochs using Adam with a learning rate of 0.01: 0.6494845360824743
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 100 epochs using Adam with a learning rate of 0.01: 0.711340206185567
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7319587628865979
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7422680412371134
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7216494845360825
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 100 epochs using Adam with a learning rate of 0.01: 0.6701030927835051
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 100 epochs using Adam with a learning rate of 0.01: 0.7525773195876289
+
+
+Results on the test set with a Modality Encoder Dropout of 0 after training for 500 epochs using Adam with a learning rate of 0.01: 0.7319587628865979
+
+
+Results on the test set with a Modality Encoder Dropout of 0.2 after training for 500 epochs using Adam with a learning rate of 0.01: 0.7938144329896907
+
+
+Results on the test set with a Modality Encoder Dropout of 0.35 after training for 500 epochs using Adam with a learning rate of 0.01: 0.8144329896907216
+
+
+Results on the test set with a Modality Encoder Dropout of 0.5 after training for 500 epochs using Adam with a learning rate of 0.01: 0.7938144329896907
+
+
